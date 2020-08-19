@@ -1,0 +1,4 @@
+20110125,Game of Thrones,Drama,8,6.6
+20170120,Dark,Misterio,2,7.0
+20160150,Stranger Things,Accion,3,6.7
+20170220,La casa de papel,Drama,4,6.9
